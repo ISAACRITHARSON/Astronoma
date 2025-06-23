@@ -53,7 +53,7 @@ npm run dev
 
 ## Features
 
-- 🌌 3D visualization of the solar system
+- 🌌 Generate 3D visualization of the solar system
 - 🎙️ AI-generated narration in multiple languages
 - 💬 Intelligent chat assistant for navigation
 - 🔍 Search functionality for celestial objects
